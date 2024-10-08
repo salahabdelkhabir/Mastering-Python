@@ -1,8 +1,19 @@
-# Mastering Python - Elzero Web School
+# Mastering Python Repository
 
-Welcome to my repository for the **Fundamentals of Mastering Python** course by Elzero Web School. This project showcases my progress and learning through the course.
+This repository is dedicated to my learning journey through the "Mastering Python" course by Elzero Web School. 
+It includes 2 organized folders for assignments and notes covering various programming fundamentals.
 
 ## Repository Structure
 
-- **solved_assignments/**: Contains completed assignments with well-commented Python scripts.
-- **notes/**: Personal notes summarizing key concepts and topics from the course.
+/Mastering-Python
+│
+├── /assignments
+│   ├── A1.py
+│   ├── A2.py
+│   └── ...
+│
+├── /notes 
+│   
+│
+└── README.md
+
